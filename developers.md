@@ -1,3 +1,3 @@
 # Developers / Constributers
 
-- [Sean] {https://github.com/Fiefiez}
+- [Fiefiez] (https://github.com/Fiefiez)
